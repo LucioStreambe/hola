@@ -5,7 +5,7 @@ export default function Imagen() {
         <img src="jpggg.jpg" alt="" />
         <hr />
         <h1>Hola</h1>
-        <p>holax2</p>
+        <p>holax2 mango loco</p>
       </div>
     </>
   );
